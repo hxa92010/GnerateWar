@@ -9,7 +9,7 @@ pipeline {
                
            }
        }
-       stage('Reading branch wise info')
+       stage('Reading  branch wise info')
        {
        when
        {
